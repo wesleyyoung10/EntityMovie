@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Movies
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
